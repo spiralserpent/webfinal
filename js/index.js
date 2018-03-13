@@ -240,7 +240,7 @@
       sombrero_frequency: 10.0,
       speed: 0.2,
       segments: 324,
-      wireframe_color: '#e25cfe',
+      wireframe_color: '#ff0280',
       perlin_passes: 1,
       wireframe: true,
       floor_visible: true
